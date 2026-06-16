@@ -50,15 +50,6 @@ This project analyzes an online retail dataset to uncover sales trends, customer
 - Revenue is concentrated among a small group of customers.
 - Certain products contribute significantly to overall sales.
 
-## Project Structure
-
-Ecommerce-Sales-Analytics/
-├── Data
-├── Notebook
-├── SQL
-├── Dashboard
-├── Images
-└── README.md
 
 ## Author
 
