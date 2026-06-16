@@ -50,6 +50,11 @@ This project analyzes an online retail dataset to uncover sales trends, customer
 - Revenue is concentrated among a small group of customers.
 - Certain products contribute significantly to overall sales.
 
+## Dataset
+
+The project uses the Online Retail dataset.
+
+Due to GitHub file size limitations, the cleaned dataset is not included in this repository.
 
 ## Author
 
