@@ -56,6 +56,10 @@ The project uses the Online Retail dataset.
 
 Due to GitHub file size limitations, the cleaned dataset is not included in this repository.
 
+## Dashboard Preview
+
+![Dashboard](Images/dashboard_screenshot.png)
+
 ## Author
 
 Krishna Tulasi
